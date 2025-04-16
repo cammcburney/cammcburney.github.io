@@ -22,12 +22,6 @@ project_entries:
   - title: TheMuseInYou GameJam: When Cori Grows Up
     url: https://dororochi.itch.io/when-cori-grows-up
     desc: A 2D visual novel style game with dialogue choices based outcomes.
-    
-old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
 
 footer_entries:
   - title: homepage
