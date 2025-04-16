@@ -19,5 +19,9 @@ Puzzle system - Uncover a variety of puzzles such as riddles with dynamic inputs
 This is a solo project. The intention is to build it out in chapters to gradually tell the story of the protangist **Oda** and her journey in discovering the secrets of the organisation she works for.
 
 {% raw %}
+<iframe src="https://blueprintue.com/render/ma4ilg6m/" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+{% endraw %}
+
+{% raw %}
 <iframe src="https://blueprintue.com/render/57nom2rn/" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
 {% endraw %}
