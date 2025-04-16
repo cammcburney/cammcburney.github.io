@@ -10,7 +10,7 @@ navbar_entries:
 
 project_entries:
   - title: Phantasmagoria (3D Turn Based RPG)
-    url: overview-post
+    url: phantasmagoria-post
     desc: Single player story driven RPG with turn based combat and puzzles.
     highlight: WIP
     
@@ -29,6 +29,9 @@ footer_entries:
 
   - title: github
     url: https://github.com/cammcburney
+
+  - title: itch
+    url: https://phantasmagoria-etrl.itch.io/
 
   - title: bluesky
     url: https://bsky.app/profile/phantasmagoriaetrl.bsky.social
