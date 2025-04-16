@@ -6,7 +6,7 @@ tags: [phantasmagoria]
 
 ## PHANTASMAGORIA
 # 3D Turn Based RPG 
-![image](cammcburney.github.io/images/COVER_Phantasmagoria.png)
+
 ![image](./images/COVER_Phantasmagoria.png)
 
 *Phantasmagoria is a narrative driven RPG inspired by English folklore.*
