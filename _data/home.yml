@@ -2,11 +2,11 @@ navbar_entries:
   - title: about
     url: about
 
-  - title: blog
-    url: blog
+  - title: programming
+    url: programming
 
   - title: website
-    url: https://www.abhinav.co
+    url: https://cammcburney.github.io/
 
 project_entries:
   - title: Project 1
@@ -54,14 +54,14 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: homepage
+    url: https://cammcburney.github.io/
 
-  - title: twitter
-    url: https://twitter.com/abhinav
+  - title: bluesky
+    url: https://bsky.app/profile/phantasmagoriaetrl.bsky.social
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/cammcburney
 
   - title: feed
     url: feed.xml
