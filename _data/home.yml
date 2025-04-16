@@ -13,7 +13,6 @@ project_entries:
     url: phantasmagoria-post
     desc: Single player story driven RPG with turn based combat and puzzles.
     highlight: WIP
-    image: /images/COVER_Phantasmagoria.png
     
   - title: PipPop (3D Multiplayer First Person Shooter)
     url: https://github.com/cammcburney/pippop_backup
