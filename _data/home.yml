@@ -19,9 +19,9 @@ project_entries:
     desc: Free for all multiplayer first person shooter project.
     highlight: WIP
 
-  # - title: TheMuseInYou GameJam: When Cori Grows Up (2D Visual Novel)
-  #   url: https://dororochi.itch.io/when-cori-grows-up
-  #   desc: Narrative driven game with dialogue choice based outcomes.
+  - title: TheMuseInYou GameJam - When Cori Grows Up (2D Visual Novel)
+    url: https://dororochi.itch.io/when-cori-grows-up
+    desc: Narrative driven game with dialogue choice based outcomes.
 
 footer_entries:
   - title: homepage
