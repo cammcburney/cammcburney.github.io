@@ -9,13 +9,13 @@ navbar_entries:
     url: https://cammcburney.github.io/
 
 project_entries:
-  - title: Project 1
+  - title: Phantasmagoria (3D Turn Based RPG)
     url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+    desc: Single player story driven RPG with turn based combat and puzzles.
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  - title: PipPop (3D Multiplayer First Person Shooter)
+    url: https://github.com/cammcburney/pippop_backup
+    desc: Free for all multiplayer first person shooter project.
 
   - title: Project 3
     url: overview-post
@@ -57,14 +57,15 @@ footer_entries:
   - title: homepage
     url: https://cammcburney.github.io/
 
-  - title: bluesky
-    url: https://bsky.app/profile/phantasmagoriaetrl.bsky.social
-
   - title: github
     url: https://github.com/cammcburney
 
-  - title: feed
-    url: feed.xml
+  - title: bluesky
+    url: https://bsky.app/profile/phantasmagoriaetrl.bsky.social
+
+  - title: soundcloud
+    url: https://soundcloud.com/linus_2395
+
 
 misc_entries:
   - title: this is an example vertical list
