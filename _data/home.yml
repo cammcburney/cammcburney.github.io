@@ -9,12 +9,12 @@ navbar_entries:
     url: https://cammcburney.github.io/
 
 project_entries:
-  - title: Phantasmagoria (3D Turn Based RPG)
+  - title: Phantasmagoria 
     url: phantasmagoria
     desc: Single player story driven RPG with turn based combat and puzzles.
     highlight: WIP
     
-  - title: PipPop (3D Multiplayer First Person Shooter)
+  - title: PipPop (3D Multiplayer First Person Shooter / C++ Focused)
     url: https://github.com/cammcburney/pippop_backup
     desc: Free for all multiplayer first person shooter project.
     highlight: WIP
