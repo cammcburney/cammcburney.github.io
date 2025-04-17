@@ -10,7 +10,7 @@ navbar_entries:
 
 project_entries:
   - title: Phantasmagoria (3D Turn Based RPG)
-    url: phantasmagoria-post
+    url: phantasmagoria
     desc: Single player story driven RPG with turn based combat and puzzles.
     highlight: WIP
     

@@ -11,12 +11,16 @@ tags: [phantasmagoria]
 
 *Phantasmagoria is a narrative driven RPG inspired by English folklore.*
 
-Turn Based Combat - Classic turn based combat giving you time to plan your next strike.
-Combat Interaction System - Follow button sequences to deal extra damage or defend and stack multipliers.
+Turn Based Interactive Combat - Classic turn based combat giving you time to plan your next strike, follow button sequences to deal extra damage or defend and stack multipliers.
 Deep dialogue systems - Think careful about how you respond to NPCs, it could be your only chance to obtain unique items.
 Puzzle system - Uncover a variety of puzzles such as riddles with dynamic inputs.
 
 This is a solo project. The intention is to build it out in chapters to gradually tell the story of the protangist **Oda** and her journey in discovering the secrets of the organisation she works for.
+
+
+{% raw %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6UFsydybUDI" frameborder="0" allowfullscreen></iframe>
+{% endraw %}
 
 {% raw %}
 <iframe src="https://blueprintue.com/render/ma4ilg6m/" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
