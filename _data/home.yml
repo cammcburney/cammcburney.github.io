@@ -5,9 +5,6 @@ navbar_entries:
   - title: programming
     url: programming
 
-  - title: website
-    url: https://cammcburney.github.io/
-
 project_entries:
   - title: Phantasmagoria 
     url: phantasmagoria
@@ -15,12 +12,12 @@ project_entries:
     highlight: WIP
     
   - title: PipPop (3D Multiplayer First Person Shooter / C++ Focused)
-    url: https://github.com/cammcburney/pippop_backup
+    url: pippop
     desc: Free for all multiplayer first person shooter project.
     highlight: WIP
 
   - title: TheMuseInYou GameJam - When Cori Grows Up (2D Visual Novel)
-    url: https://dororochi.itch.io/when-cori-grows-up
+    url: whencorigrowsup
     desc: Narrative driven game with dialogue choice based outcomes.
 
 footer_entries:

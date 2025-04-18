@@ -1,16 +1,20 @@
 ---
 layout: post
 author: Cameron McBurney
-tags: [phantasmagoria]
+tags: [whencorigrowsup]
 ---
 
-# PHANTASMAGORIA
-## 3D Turn Based RPG
-### BLUEPRINT FOCUSED
+# WHEN CORI GROWS UP
+## 2D VISUAL NOVEL
+### RENPY + PYTHON FOCUSED
 
 ![image](./images/COVER_Phantasmagoria.png)
 
-*Phantasmagoria is a solo project and a narrative driven RPG inspired by English folklore.*
+*When Cori Grows Up is a family friendly visual novel about women's aspirations*
+
+{% raw %}
+<iframe allowfullscreen="true" scrolling="no" id="game_drop" allow="autoplay; fullscreen *; geolocation; microphone; camera; midi; monetization; xr-spatial-tracking; gamepad; gyroscope; accelerometer; xr; cross-origin-isolated; web-share" msallowfullscreen="true" src="https://html-classic.itch.zone/html/13243381/index.html" allowtransparency="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
+{% endraw %}
 
 ### Features:  
 
