@@ -67,7 +67,7 @@ I wanted a puzzle which would challenge the player to think but didn't require c
 
 ***Future planned features***
 
-On screen keyboard for controller players and to reflect player keyboard inputs
-Parameterised final string length for reuse.
-Add a resuable function for creating and setting the dynamic material instances.
+- On screen keyboard for controller players and to reflect player keyboard inputs
+- Parameterised final string length for reuse.
+- Add a resuable function for creating and setting the dynamic material instances.
 
