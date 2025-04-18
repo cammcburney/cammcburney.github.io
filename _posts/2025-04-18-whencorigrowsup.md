@@ -10,67 +10,39 @@ tags: [whencorigrowsup]
 
 ![image](./images/COVER_Phantasmagoria.png)
 
-*When Cori Grows Up is a family friendly visual novel about women's aspirations*
+*When Cori Grows Up is a family-friendly visual novel about children's aspirations and inspirational women.*
+
+### When Cori Grows Up Entry: [When Cori Grows Up on Itch.io](https://dororochi.itch.io/when-cori-grows-up)
+
+**The Muse In You on Itch:** [The Muse In You Game Jam on Itch.io](https://itch.io/jam/muse-in-you/entries)
+
+*When Cori Grows Up is a game jam submission for *The Muse In You*, hosted by BlackGirlGamers, Dames4Games, and WomenLedGames.*
+
+I worked as part of a team as a programmer focusing on logic, transitions, and implementing audio and images.
 
 {% raw %}
 <iframe width="100%" height="640" allowfullscreen="true" scrolling="no" id="game_drop" allow="autoplay; fullscreen *; geolocation; microphone; camera; midi; monetization; xr-spatial-tracking; gamepad; gyroscope; accelerometer; xr; cross-origin-isolated; web-share" msallowfullscreen="true" src="https://html-classic.itch.zone/html/13243381/index.html" allowtransparency="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
 {% endraw %}
 
-### Features:  
+### Features:
 
-***Turn Based Interactive Combat*** 
+**Dialogue Choices**  
+Throughout the game, a few simple counters are used to decide the outcome of the story and which role Cori chooses.
 
-Classic turn based combat giving you time to plan your next strike, follow button sequences to deal extra damage or defend and stack multipliers.
+![image](./images/Choices.png)
 
-<iframe src="https://blueprintue.com/render/8-rgl__x/" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+These counters increment based on choices made throughout the game. On the final day, a comparison is made to choose the outcome. If there's no clear winner, a fail-safe default ending occurs.
 
-Notifies are used on the animation track to trigger a window for player input.
+![image](./images/Comparison.png)
 
-- If no input is recieved the attack misses and does no damage.
-- If the input is recieved in the timeframe damage is dealt.
-- If it is inputted within 10% of the midpoint of the timer it deals additional bonus damage.
+A rare encounter with a counter karma system appears only if the player has not made any poor decisions throughout the story.
 
+![image](./images/ChanceEncounter.png)
 
-<iframe src="https://youtu.be/59RRLcX_I_Q?feature=shared" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
-*Example of fight with 0/3 & then 2/3 hits*
+---
 
-***Dialogue Trees***
- 
-Think careful about how you respond to NPCs, it could be your only chance to obtain unique items.
+### Hosts:
 
-
-***Riddle Puzzle System***
-
-As part of the overworld gameplay loop, I wanted to incoperate puzzles to gain access to areas or additional loot. 
-I wanted a puzzle which would challenge the player to think but didn't require complex timed input sequence, a player inputted answer was the perfect fit.
-
-{% raw %}
-<iframe src="https://www.youtube.com/embed/6UFsydybUDI" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
-{% endraw %}
-
-**Logic Breakdown**
-
-- The riddle puzzle uses a widget overlay with an invisible text box to dynamically take player keyboard input and pass it to the puzzle actor.
-- The puzzle actor has 5 invisible cubes which can be altered based on the last inputted letter in the text box.
-- If the player tries to input text past the maximum amount, an error sound plays and no change is taken.
-
-{% raw %}
-<iframe src="https://blueprintue.com/render/ma4ilg6m/" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
-{% endraw %}
-
-- The actor takes the last inputted letter each time the text is updated, finds the paired textures using a map and sets this to the invisible block in sequence.
-- Each letter is added to a queue which determines whether a letter has been added or removed then fades in or out the letter in sequence on a looping timer.
-- If the queue is empty, the timer stops looping and resets.
-- If the wrong answer is entered, the riddle clears itself in reverse and the player exits the focused camera from the widget/actor.
-- If the correct answer is entered, the lights in the scene will turn on.
-
-{% raw %}
-<iframe src="https://blueprintue.com/render/57nom2rn/" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
-{% endraw %}
-
-***Future planned features***
-
-On screen keyboard for controller players and to reflect player keyboard inputs
-Parameterised final string length for reuse.
-Add a resuable function for creating and setting the dynamic material instances.
-
+- **[Black Girl Gamers Website](https://www.theblackgirlgamers.com/)**
+- **[Women Led Games Website](https://www.womenledgames.com/)**
+- **[Dames 4 Games on Instagram](https://www.instagram.com/damesforgames/)**

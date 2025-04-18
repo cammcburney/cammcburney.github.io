@@ -11,12 +11,12 @@ project_entries:
     desc: Single player story driven RPG with turn based combat and puzzles.
     highlight: WIP
     
-  - title: PipPop (3D Multiplayer First Person Shooter / C++ Focused)
+  - title: PipPop
     url: pippop
     desc: Free for all multiplayer first person shooter project.
     highlight: WIP
 
-  - title: TheMuseInYou GameJam - When Cori Grows Up (2D Visual Novel)
+  - title: When Cori Grows Up
     url: whencorigrowsup
     desc: Narrative driven game with dialogue choice based outcomes.
 
