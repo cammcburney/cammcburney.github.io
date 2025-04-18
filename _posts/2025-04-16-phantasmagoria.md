@@ -26,8 +26,9 @@ Notifies are used on the animation track to trigger a window for player input.
 - If the input is recieved in the timeframe damage is dealt.
 - If it is inputted within 10% of the midpoint of the timer it deals additional bonus damage.
 
-
-<iframe src="https://youtu.be/59RRLcX_I_Q?feature=shared" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+{% raw %}
+<iframe src="https://youtu.be/embed/59RRLcX_I_Q" width="100%" height="600" scrolling="no" allowfullscreen></iframe>
+{% endraw %}
 *Example of fight with 0/3 & then 2/3 hits*
 
 ***Dialogue Trees***
