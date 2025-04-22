@@ -12,27 +12,27 @@ I have a background in audio engineering and if I'm not working on scripts I'll 
 You can find a summary of my skills below:
 
 ### Languages:
-C++ (Including Blueprints)
-C#
-Python
-SQL
+- C++ (Including Blueprints)
+- C#
+- Python
+- SQL
 
 ### Engines/Frameworks:
-Unreal Engine 4/5
-Unity
-Renpy
-Flask
-Pytest
+- Unreal Engine 4/5
+- Unity
+- Renpy
+- Flask
+- Pytest
 
 ### Tools
-Github
-Wwise
-Terraform
+- Github
+- Wwise
+- Terraform
 
 ### Methodologies
-Agile
-Scrum
-Kanban
+- Agile
+- Scrum
+- Kanban
 
 
 
