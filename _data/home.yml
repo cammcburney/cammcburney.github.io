@@ -6,6 +6,12 @@ navbar_entries:
     url: programming
 
 project_entries:
+
+  - title: Tir Na nOg
+    url: tirnanog
+    desc: Designing a scalable puzzle system
+    highlight: WIP
+
   - title: Phantasmagoria 
     url: phantasmagoria
     desc: Single player story driven RPG with turn based combat and puzzles.
